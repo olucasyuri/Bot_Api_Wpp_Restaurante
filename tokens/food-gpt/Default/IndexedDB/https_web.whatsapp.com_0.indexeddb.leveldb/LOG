@@ -1,0 +1,12 @@
+2023/08/09-00:31:06.071 2c78 Reusing MANIFEST D:\Bot IA WhatsApp de Pedido\FOOD-COMMERCE-GPT-DEV\tokens\food-gpt\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/09-00:31:06.073 2c78 Recovering log #798
+2023/08/09-00:31:06.518 2c78 Reusing old log D:\Bot IA WhatsApp de Pedido\FOOD-COMMERCE-GPT-DEV\tokens\food-gpt\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000798.log 
+2023/08/09-00:31:23.447 2c78 Level-0 table #803: started
+2023/08/09-00:31:23.673 2c78 Level-0 table #803: 1013282 bytes OK
+2023/08/09-00:31:23.736 2c78 Delete type=0 #798
+2023/08/09-00:31:24.175 2c78 Compacting 1@1 + 1@2 files
+2023/08/09-00:31:24.755 2c78 Generated table #804@1: 32846 keys, 1549054 bytes
+2023/08/09-00:31:24.755 2c78 Compacted 1@1 + 1@2 files => 1549054 bytes
+2023/08/09-00:31:24.899 2c78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/09-00:31:24.899 2c78 Delete type=2 #800
+2023/08/09-00:31:24.899 2c78 Delete type=2 #803
